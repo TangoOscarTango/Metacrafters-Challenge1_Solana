@@ -36,7 +36,7 @@ const getWalletBalance = async () => {
         const walletBalance = await connection.getBalance(
             myWallet
         );
-        console.log(`Wallet balance: ${parseInt(walletBalance) / LAMPORTS_PER_SOL} SOL - Wallet: ` + myWallet);
+        console.log(myWallet + ` - balance: ${parseInt(walletBalance) / LAMPORTS_PER_SOL} SOL`);
     } catch (err) {
         console.log(err);
     }
