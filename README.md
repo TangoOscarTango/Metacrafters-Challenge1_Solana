@@ -13,8 +13,8 @@ CONSOLE OUTPUT:
 
 Public Key of the randomly generated keypair: 57EYPZkmfvcTFg6VbeuVaAEvTUQGdHFxTQVmBgkV9bzJ
 
-ENnZx2WCwmxubY13PVTPJpFVoxkAqySsnF7k8g5ycieN balance: 0 SOL
+ENnZx2WCwmxubY13PVTPJpFVoxkAqySsnF7k8g5ycieN - balance: 0 SOL
 
 Airdropping some SOL to my wallet!
 
-ENnZx2WCwmxubY13PVTPJpFVoxkAqySsnF7k8g5ycieN balance: 2 SOL
+ENnZx2WCwmxubY13PVTPJpFVoxkAqySsnF7k8g5ycieN - balance: 2 SOL
