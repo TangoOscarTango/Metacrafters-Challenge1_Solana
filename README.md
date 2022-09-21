@@ -10,10 +10,13 @@ EXAMPLE RUN:
 
 
 CONSOLE OUTPUT: 
-Public Key of the randomly generated keypair: XgrxbhRfVxHqneW3AZQoiTqKZsTLM7q5WcV18SLgRUQ
+>node index.js ENnZx2WCwmxubY13PVTPJpFVoxkAqySsnF7k8g5ycieN
 
-Wallet balance: 0 SOL - Wallet: ENnZx2WCwmxubY13PVTPJpFVoxkAqySsnF7k8g5ycieM
+
+Public Key of the randomly generated keypair: 57EYPZkmfvcTFg6VbeuVaAEvTUQGdHFxTQVmBgkV9bzJ
+
+ENnZx2WCwmxubY13PVTPJpFVoxkAqySsnF7k8g5ycieN balance: 0 SOL
 
 Airdropping some SOL to my wallet!
 
-Wallet balance: 2 SOL - Wallet: ENnZx2WCwmxubY13PVTPJpFVoxkAqySsnF7k8g5ycieM
+ENnZx2WCwmxubY13PVTPJpFVoxkAqySsnF7k8g5ycieN balance: 2 SOL
