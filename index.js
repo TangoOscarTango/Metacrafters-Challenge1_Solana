@@ -22,7 +22,7 @@ const privateKey = newPair._keypair.secretKey;
 // Connect to the Devnet
 const connection = new Connection(clusterApiUrl("devnet"), "confirmed");
 
-console.log("Public Key of the generated keypair:", publicKey.toString());
+console.log("Public Key of the generated keypair:", new PublicKey(newPair._keypair.publicKey).toString());
 
 // Get the wallet balance from a given public key
 const getWalletBalance = async () => {
