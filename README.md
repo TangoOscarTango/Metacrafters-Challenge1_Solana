@@ -1,7 +1,7 @@
 # Metacrafters-Challenge1_Solana
 Metacrafters-Challenge1_Solana
 
-ABOUT: Airdrop 2 SOL to the public address typed in via the user's CLI. If no CLI is present, send it to the randomly generated public address.
+ABOUT: Airdrop 2 SOL to the public address typed in via the user's CLI. If no CLI is present, airdrop the SOL to a randomly generated public address.
 
 
 
