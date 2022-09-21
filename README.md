@@ -6,12 +6,10 @@ ABOUT: Airdrop 2 SOL to the public address typed in via the user's CLI. If no CL
 
 
 EXAMPLE RUN:
-> node index.js ENnZx2WCwmxubY13PVTPJpFVoxkAqySsnF7k8g5ycieM
+> node index.js ENnZx2WCwmxubY13PVTPJpFVoxkAqySsnF7k8g5ycieN
 
 
 CONSOLE OUTPUT: 
->node index.js ENnZx2WCwmxubY13PVTPJpFVoxkAqySsnF7k8g5ycieN
-
 
 Public Key of the randomly generated keypair: 57EYPZkmfvcTFg6VbeuVaAEvTUQGdHFxTQVmBgkV9bzJ
 
