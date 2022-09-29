@@ -1,0 +1,5 @@
+git remote add origin https://github.com/TangoOscarTango/PROJECTname.git
+git branch -M main
+git add *
+git commit -a -m "your message goes here"
+git push -u origin main
